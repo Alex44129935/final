@@ -1,5 +1,4 @@
 python_version
-numpy
 streamlit
 streamlit_webrtc
 streamlit-nested-layout
@@ -10,3 +9,4 @@ mplfinance
 shioaji
 pynacl
 ta-lib-bin
+numpy==1.23.5
