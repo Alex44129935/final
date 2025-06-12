@@ -9,4 +9,4 @@ plotly
 mplfinance
 shioaji
 pynacl
-TA-Lib
+ta-lib-bin
