@@ -8,4 +8,4 @@ plotly
 mplfinance
 shioaji
 pynacl
-ta-lib
+talib
