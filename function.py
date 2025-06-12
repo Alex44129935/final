@@ -3,7 +3,7 @@
 ##### 載入必要模組
 ############################################
 
-!pip install ta_lib-0.6.3-cp312-cp312-win_amd64.whl
+
 
 #import haohaninfo
 from order_Lo13 import *
