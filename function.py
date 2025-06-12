@@ -16,7 +16,7 @@ import mplfinance as mpf
 import matplotlib.pyplot as plt
 import matplotlib
 import matplotlib.font_manager as fm
-
+from talib import RSI, BBANDS, MACD, STOCH, ATR
 
 
 
@@ -592,12 +592,7 @@ GeneratorCapitalRateChart([x * 0.5 for x in CumulativeCapitalRate_series_1]+ [x 
 
 #%%
 
-import numpy as np
-import pandas as pd
-import mplfinance as mpf
-import matplotlib.pyplot as plt
-import matplotlib.font_manager as fm
-from talib import RSI, BBANDS, MACD, STOCH, ATR
+
 
 # Update toDictionary to include new technical indicators
 def toDictionary(df):
